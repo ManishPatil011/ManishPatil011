@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+innovative+solutions;Exploring+new+technologies;Passionate+about+clean+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ManishPatil011&color=blueviolet&style=for-the-badge)
+
 
 </div>
 
