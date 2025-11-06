@@ -188,7 +188,7 @@ graph LR
 ## ⚡ Fun Facts About Me
 
 - 🎮 I'm a gaming enthusiast who loves strategy games
-- ☕ Coffee is my debugging fuel - can't code without it!
+- ☕ Tea is my debugging fuel - can't code without it!
 - 🎵 I listen to lofi hip hop while coding for maximum productivity
 - 🏃 Marathon runner - believe in keeping both mind and body fit
 - 📚 Avid reader of sci-fi novels and tech books
@@ -218,7 +218,7 @@ graph LR
 
 <div align="center">
   
-**"First, solve the problem. Then, write the code."** - John Johnson
+**"First, solve the problem. Then, write the code."** - Manish S Patil
 
 ⭐ From [ManishPatil011](https://github.com/ManishPatil011)
 
