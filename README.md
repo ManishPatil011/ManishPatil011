@@ -24,17 +24,17 @@
 journey
     title My Development Journey
     section Beginner
-      Learning Basics: 3: Me
+      Learning Basics: 6: Me
       First Hello World: 4: Me
-      Understanding Logic: 3: Me
+      Understanding Logic: 8: Me
     section Intermediate
-      Building Projects: 5: Me
-      Learning Frameworks: 4: Me
-      Contributing to OS: 4: Me
+      Building Projects: 9: Me
+      Learning Frameworks: 8: Me
+      Contributing to OS: 9: Me
     section Advanced
-      System Design: 5: Me
-      Mentoring Others: 5: Me
-      Innovation: 5: Me
+      System Design: 8: Me
+      Mentoring Others: 6: Me
+      Innovation: 9: Me
 ```
 
 ---
