@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀 Manish Patil
+
 ### Software Developer | Tech Enthusiast | Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+innovative+solutions;Exploring+new+technologies;Passionate+about+clean+code;Always+learning%2C+always+growing)](https://git.io/typing-svg)
@@ -18,24 +19,23 @@
 
 ---
 
-## 🗺️ My Coding Journey
+## 🏆 GitHub Profile Trophies
 
-```mermaid
-journey
-    title My Development Journey
-    section Beginner
-      Learning Basics: 6: Me
-      First Hello World: 4: Me
-      Understanding Logic: 8: Me
-    section Intermediate
-      Building Projects: 9: Me
-      Learning Frameworks: 8: Me
-      Contributing to OS: 9: Me
-    section Advanced
-      System Design: 8: Me
-      Mentoring Others: 6: Me
-      Innovation: 9: Me
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishPatil011&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishPatil011&theme=radical&hide_border=true" />
+</p>
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishPatil011&show_icons=true&theme=radical" />
+</p>
 
 ---
 
@@ -44,6 +44,7 @@ journey
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,37 +55,43 @@ journey
 ### 🛠️ Frameworks & Libraries
 
 #### Web
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-#### Mobile 
+#### Mobile
 
-##### (Cross-Platform)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-##### (Platform)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+#### Backend & Database
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🧰 Tools & Others
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -94,71 +101,31 @@ journey
 
 ```mermaid
 graph LR
-    A[Current Status] --> B[Master System Design]
-    A --> C[Contribute to 10+ OSS Projects]
-    A --> D[Build SaaS Product]
-    B --> E[Architect Level]
-    C --> E
-    D --> E
-    E --> F[Senior Developer Role]
+    A[Master System Design] --> B[Learn Go & Rust]
+    B --> C[Contribute to Major OS Projects]
+    C --> D[Build SaaS Product]
+    D --> E[Become Cloud Architect]
     
     style A fill:#ff6b6b
-    style E fill:#4ecdc4
-    style F fill:#95e1d3
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
 ```
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing my work and skills | React, TailwindCSS, Framer Motion | [Demo](https://mr-mani.vercel.app) |
-| 🛒 **E-Commerce Platform** | Full-stack online shopping application | MERN Stack, Redux, Stripe | [Demo](https://leaf-now.infinityfreeapp.com/) |
-| 📱 **Task Manager App** | Productivity app with real-time collaboration | Next.js, Prisma, WebSockets | [Demo](https://github.com) |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil011&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishPatil011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil011&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManishPatil011&theme=tokyonight)
-
-</div>
-
----
-
-## 🎨 Contribution Graph
-
-<div align="center">
-
-[![ManishPatil011's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManishPatil011&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ManishPatil011&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💼 What I'm Currently Working On
 
@@ -167,6 +134,8 @@ graph LR
 - 👯 Looking to collaborate on **open-source projects** related to web development
 - 🤝 Exploring **AI/ML integration** in modern web applications
 - 💡 Writing technical blogs about **software engineering patterns**
+
+</div>
 
 ---
 
@@ -217,8 +186,8 @@ graph LR
 ---
 
 <div align="center">
-  
-**"First, solve the problem. Then, write the code."** - Manish S Patil
+
+  **"First, solve the problem. Then, write the code."** - Manish S Patil
 
 ⭐ From [ManishPatil011](https://github.com/ManishPatil011)
 
