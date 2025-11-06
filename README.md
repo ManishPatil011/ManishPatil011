@@ -160,16 +160,6 @@ graph LR
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ManishPatil011&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💼 What I'm Currently Working On
 
 - 🔭 Building a **cloud-native microservices architecture** for scalable applications
