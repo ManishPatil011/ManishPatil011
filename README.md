@@ -127,8 +127,10 @@ graph LR
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🌐 **Portfolio Website** | Personal portfolio showcasing my work and skills | React, TailwindCSS, Framer Motion | [Demo](https://mr-mani.vercel.app) |
-| 🛒 **E-Commerce Platform** | Full-stack online shopping application | MERN Stack, Redux, Stripe | [Demo](https://leaf-now.infinityfreeapp.com/) |
-| 📱 **Task Manager App** | Productivity app with real-time collaboration | Next.js, Prisma, WebSockets | [Demo](https://github.com) |
+| 🛒 **E-Commerce Platform** | Full-stack online shopping application | MERN Stack, Redux | [Demo](https://leaf-now.infinityfreeapp.com/) |
+| 📱 **Android Kisosk Application** | Productivity app with real-time collaboration | Flutter(Dart), Firebase, WebSockets, Real-time data-transfer | [Code](https://github.com/ManishPatil011/telemedicine_kiosk) |
+| 🛒 **eTMS** | React-native application | React-Native, Typescript, Node JS, , Redux | [Demo](https://github.com/ManishPatil011/eTMS) |
+
 
 </div>
 
