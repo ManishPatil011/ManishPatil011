@@ -140,9 +140,8 @@ graph LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishPatil011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil011&layout=compact&langs_count=8&theme=tokyonight"/>
-
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishPatil011&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil011&layout=compact&theme=radical)
 </div>
 
 <div align="center">
