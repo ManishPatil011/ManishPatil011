@@ -140,8 +140,8 @@ graph LR
 
 <div align="center">
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishPatil011&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil011&layout=compact&theme=radical)
+<a href="https://github.com/ManishPatil011"><img src="https://github-readme-stats.vercel.app/api?username=ManishPatil011&show_icons=true&theme=radical" alt="GitHub Stats" height="180" /></a>
+<a href="https://github.com/ManishPatil011"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil011&layout=compact&theme=radical" alt="Top Languages" height="180" /></a>
 </div>
 
 <div align="center">
