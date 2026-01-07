@@ -136,31 +136,6 @@ graph LR
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-> View my [GitHub Stats](https://github.com/ManishPatil011) | [Most Used Languages](https://github.com/ManishPatil011)
-> </div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManishPatil011&theme=tokyonight)
-
-</div>
-
----
-
-## 🎨 Contribution Graph
-
-<div align="center">
-
-[![ManishPatil011's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManishPatil011&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 💼 What I'm Currently Working On
 
 - 🔭 Building a **cloud-native microservices architecture** for scalable applications
