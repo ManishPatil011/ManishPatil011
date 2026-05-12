@@ -194,7 +194,7 @@ graph LR
 
 <div align="center">
   
-**"First, solve the problem. Then, write the code."** - Manish S Patil
+**"Solve the problem with code, which makes reviewer to remember too code!!."** - Manish S Patil
 
 ⭐ From [ManishPatil011](https://github.com/ManishPatil011)
 
